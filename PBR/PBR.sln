@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PBR", "PBR\PBR.vcxproj", "{8970C470-B46C-4B1B-B412-769197455F35}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PBR_texture", "..\PBR_texture\PBR_texture\PBR_texture.vcxproj", "{BA055E23-9753-4782-ACE7-A7BAA3F623AB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "diffuse_irradiance", "..\diffuse_irradiance\diffuse_irradiance\diffuse_irradiance.vcxproj", "{50BD2FF5-DFA9-4CC9-BEBD-6EB4B44F9605}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ibl_specular", "..\ibl_specular\ibl_specular\ibl_specular.vcxproj", "{DAAD0075-D36F-4457-8561-7CA9C935E8D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8970C470-B46C-4B1B-B412-769197455F35}.Debug|x64.ActiveCfg = Debug|x64
+		{8970C470-B46C-4B1B-B412-769197455F35}.Debug|x64.Build.0 = Debug|x64
+		{8970C470-B46C-4B1B-B412-769197455F35}.Debug|x86.ActiveCfg = Debug|Win32
+		{8970C470-B46C-4B1B-B412-769197455F35}.Debug|x86.Build.0 = Debug|Win32
+		{8970C470-B46C-4B1B-B412-769197455F35}.Release|x64.ActiveCfg = Release|x64
+		{8970C470-B46C-4B1B-B412-769197455F35}.Release|x64.Build.0 = Release|x64
+		{8970C470-B46C-4B1B-B412-769197455F35}.Release|x86.ActiveCfg = Release|Win32
+		{8970C470-B46C-4B1B-B412-769197455F35}.Release|x86.Build.0 = Release|Win32
+		{BA055E23-9753-4782-ACE7-A7BAA3F623AB}.Debug|x64.ActiveCfg = Debug|x64
+		{BA055E23-9753-4782-ACE7-A7BAA3F623AB}.Debug|x64.Build.0 = Debug|x64
+		{BA055E23-9753-4782-ACE7-A7BAA3F623AB}.Debug|x86.ActiveCfg = Debug|Win32
+		{BA055E23-9753-4782-ACE7-A7BAA3F623AB}.Debug|x86.Build.0 = Debug|Win32
+		{BA055E23-9753-4782-ACE7-A7BAA3F623AB}.Release|x64.ActiveCfg = Release|x64
+		{BA055E23-9753-4782-ACE7-A7BAA3F623AB}.Release|x64.Build.0 = Release|x64
+		{BA055E23-9753-4782-ACE7-A7BAA3F623AB}.Release|x86.ActiveCfg = Release|Win32
+		{BA055E23-9753-4782-ACE7-A7BAA3F623AB}.Release|x86.Build.0 = Release|Win32
+		{50BD2FF5-DFA9-4CC9-BEBD-6EB4B44F9605}.Debug|x64.ActiveCfg = Debug|x64
+		{50BD2FF5-DFA9-4CC9-BEBD-6EB4B44F9605}.Debug|x64.Build.0 = Debug|x64
+		{50BD2FF5-DFA9-4CC9-BEBD-6EB4B44F9605}.Debug|x86.ActiveCfg = Debug|Win32
+		{50BD2FF5-DFA9-4CC9-BEBD-6EB4B44F9605}.Debug|x86.Build.0 = Debug|Win32
+		{50BD2FF5-DFA9-4CC9-BEBD-6EB4B44F9605}.Release|x64.ActiveCfg = Release|x64
+		{50BD2FF5-DFA9-4CC9-BEBD-6EB4B44F9605}.Release|x64.Build.0 = Release|x64
+		{50BD2FF5-DFA9-4CC9-BEBD-6EB4B44F9605}.Release|x86.ActiveCfg = Release|Win32
+		{50BD2FF5-DFA9-4CC9-BEBD-6EB4B44F9605}.Release|x86.Build.0 = Release|Win32
+		{DAAD0075-D36F-4457-8561-7CA9C935E8D6}.Debug|x64.ActiveCfg = Debug|x64
+		{DAAD0075-D36F-4457-8561-7CA9C935E8D6}.Debug|x64.Build.0 = Debug|x64
+		{DAAD0075-D36F-4457-8561-7CA9C935E8D6}.Debug|x86.ActiveCfg = Debug|Win32
+		{DAAD0075-D36F-4457-8561-7CA9C935E8D6}.Debug|x86.Build.0 = Debug|Win32
+		{DAAD0075-D36F-4457-8561-7CA9C935E8D6}.Release|x64.ActiveCfg = Release|x64
+		{DAAD0075-D36F-4457-8561-7CA9C935E8D6}.Release|x64.Build.0 = Release|x64
+		{DAAD0075-D36F-4457-8561-7CA9C935E8D6}.Release|x86.ActiveCfg = Release|Win32
+		{DAAD0075-D36F-4457-8561-7CA9C935E8D6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
