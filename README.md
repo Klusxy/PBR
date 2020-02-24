@@ -20,8 +20,10 @@ PBR demo
 <div>
   <img src="./images/Ball.gif" width="300px"/> 
 </div>
+<br>
+<br>
 
-参考资料及部分模型/HDR资源
+## 参考资料及部分模型/HDR资源
 
 http://www.hdrlabs.com/test2/store/archive/PaperMill_Ruins_E/
 
