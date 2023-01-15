@@ -1,5 +1,4 @@
 # PBR
-PBR demo
 
 * Damaged Helmet
 <div>
